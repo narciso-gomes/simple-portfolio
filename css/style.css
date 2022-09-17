@@ -1,0 +1,13 @@
+.content{
+    background-color: #191919;
+    height: calc(100vh - 150px);
+    margin-top: 150px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}   
+
+.profile-image{
+   height: 200px;
+   margin-top: -100px;
+   margin-bottom: 30px;
+}
